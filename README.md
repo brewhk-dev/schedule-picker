@@ -1,12 +1,12 @@
-# schedule-picker
+# scheduler
 
-schedule-picker is a Meteor package which provides a table-based user interface for picking timeslots inside a user-defined timeframe.
+scheduler is a Meteor package which provides a table-based user interface for picking timeslots inside a user-defined timeframe.
 
 ### Usage
 
 1. Add the package to your application
 
-        meteor add brewhk:schedule-picker
+        meteor add brewhk:scheduler
 
 2. Create a template helper with your preferred options
 
