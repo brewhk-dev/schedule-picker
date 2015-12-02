@@ -1,8 +1,8 @@
 Package.describe({
   name: 'brewhk:scheduler',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Provides a table-based user interface for picking timeslots inside a user-defined timeframe.',
-  git: 'https://github.com/brewhk-dev/scheduler.git',
+  git: 'https://github.com/brewhk/scheduler.git',
   documentation: 'README.md'
 });
 
